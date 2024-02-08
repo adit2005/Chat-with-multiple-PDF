@@ -23,10 +23,10 @@ Set Up Google API Key: Obtain an API key from the Google API Console and store i
 Run the App: Start the Streamlit app by running the following command in your terminal:  streamlit run app.py
 ## Dependencies
 
-- copy Streamlit
-- copy PyPDF2
-- copy langchain
-- copy google-generativeai
+-  Streamlit
+-  PyPDF2
+- langchain
+-  google-generativeai
 
 ## API Reference
 
