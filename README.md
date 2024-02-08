@@ -17,10 +17,10 @@ This Streamlit app allows users to chat with PDF files using the Google Gemini A
 1. **Install Dependencies**: Make sure you have Python installed on your system. You can install the required Python packages using the following command:
 
    ```bash
-   copy pip install -r requirements.txt
-Set Up Google API Key: Obtain an API key from the Google API Console and store it in a .env file in the project directory: copy GOOGLE_API_KEY=your_api_key
+    pip install -r requirements.txt
+Set Up Google API Key: Obtain an API key from the Google API Console and store it in a .env file in the project directory:  GOOGLE_API_KEY=your_api_key
 
-Run the App: Start the Streamlit app by running the following command in your terminal: copy streamlit run app.py
+Run the App: Start the Streamlit app by running the following command in your terminal:  streamlit run app.py
 ## Dependencies
 
 - copy Streamlit
